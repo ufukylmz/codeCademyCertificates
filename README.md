@@ -1,2 +1,1 @@
-# codeCademyCertificates
-Codecademy Certificates
+# Codecademy Certificates
